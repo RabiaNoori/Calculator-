@@ -16,3 +16,4 @@ function calculate(){
         display.value = "Error";
     }
 }
+console.log('Calculator');
